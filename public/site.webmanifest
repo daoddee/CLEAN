@@ -1,0 +1,10 @@
+{
+  "name": "CleanHomes",
+  "short_name": "CleanHomes",
+  "icons": [
+    { "src": "/logo.jpg", "sizes": "256x256", "type": "image/jpeg" }
+  ],
+  "theme_color": "#e6f1ff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
