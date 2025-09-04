@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+# env
+.env*
+!.env.example
+# build
+.next
+out
+# OS junk
+.DS_Store
